@@ -1,5 +1,7 @@
 # KyesAstroPhotos
 A collection of images taken throughout my involvement in astrophotography.
+<br>
+Also includes some images I decoded from NOAA weather satellites using a home-made RF antenna.
 
 Setup:
 <br> ![setup2](https://user-images.githubusercontent.com/57282923/193433391-dbd90fa8-5679-4a6d-bd6a-88d7360ad1e0.jpg)
