@@ -1,7 +1,7 @@
 # KyesAstroPhotos
 A collection of my images taken throughout my involvement in astrophotography.
 <br>
-Also includes NOAA satellite imagery I've decoded through my DIY RF antenna.
+Also includes NOAA satellite imagery I've decoded with my home-built RF antenna.
 
 **Astrophotography**
 <br>
